@@ -1,6 +1,5 @@
 #!jinja|yaml|gpg
 
-mysql_six_connection_user: ‘root’
 mysql_six_connection_pass: |
   -----BEGIN PGP MESSAGE-----
   
@@ -14,4 +13,3 @@ mysql_six_connection_pass: |
   YTw5WAw=
   =rDap
   -----END PGP MESSAGE-----
-mysql_six_connection_host: ‘six_server’

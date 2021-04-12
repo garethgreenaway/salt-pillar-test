@@ -1,6 +1,5 @@
 #!jinja|yaml|gpg
 
-mysql_ten_connection_user: ‘root’
 mysql_ten_connection_pass: |
   -----BEGIN PGP MESSAGE-----
   
@@ -14,4 +13,3 @@ mysql_ten_connection_pass: |
   YTw5WAw=
   =rDap
   -----END PGP MESSAGE-----
-mysql_ten_connection_host: ‘ten_server’

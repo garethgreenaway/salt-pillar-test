@@ -1,6 +1,5 @@
 #!jinja|yaml|gpg
 
-mysql_nineteen_connection_user: ‘root’
 mysql_nineteen_connection_pass: |
   -----BEGIN PGP MESSAGE-----
   
@@ -14,4 +13,3 @@ mysql_nineteen_connection_pass: |
   YTw5WAw=
   =rDap
   -----END PGP MESSAGE-----
-mysql_nineteen_connection_host: ‘nineteen_server’
