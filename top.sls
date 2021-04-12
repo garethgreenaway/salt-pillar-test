@@ -1,3 +1,4 @@
 "{{ saltenv }}":
   '*':
-    - mysql 
+    - mysql_prod
+    - mysql_dev
